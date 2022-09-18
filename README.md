@@ -388,10 +388,240 @@ Testing SQL Server’s Query Optimizer- Challenges, Techniques and Experiences
 
 Testing the Accuracy of Query Optimizers
 
-# tools=
+# tools
 
 Automatic Capture of Minimal, Portable, and Executable Bug Repros Using AMPERe
 
 Reversing Statistics for Scalable Test Databases Generation
 
 Total Operator State Recall — Cost-effective Reuse of Results in Greenplum Database
+
+# uncategorized
+
+Abadi et al. - 2003 - Aurora A new model and architecture for data stream management-annotated
+
+Abadi et al. - 2007 - Scalable semantic web data management using vertical partitioning-annotated
+
+Aberger et al. - 2017 - Empty headed A relational engine for graph processing-annotated
+
+Abouzeid et al. - 2009 - HadoopDB An architectural hybrid of mapreduce and DBMS technologies for analytical workloads-annotated
+
+Aggarwal et al. - 2003 - A framework for clustering evolving data streams-annotated
+
+Agrawal et al. - 2009 - Asynchronous view maintenance for VLSD databases-annotated
+
+Ahmad, Nath - 2008 - COLR-Tree Communication-efficient spatio-temporal indexing for a sensor data web portal-annotated
+
+Ananthanarayanan et al. - 2013 - Photon Fault-tolerant and scalable joining of continuous data streams-annotated
+
+Andersen et al. - 2001 - Resilient overlay networks-annotated
+
+Andersen et al. - 2009 - FAWN A fast array of wimpy nodes-annotated
+
+Antenucci, Anderson, Cafarella - 2016 - A declarative query processing system for nowcasting-annotated
+
+Armbrust et al. - 2013 - Generalized scale independence through incremental precomputation-annotated
+
+Armenatzoglou, Papadopoulos, Papadias - 2013 - A general framework for geoSocial query processing-annotated
+
+Azzam et al. - 2011 - Liver transplantation in patients with hepatocellular carcinoma A single-center experience-annotated
+
+Banerjee et al. - 2006 - OMNI An efficient overlay multicast infrastructure for real-time applications-annotated
+
+Battle, Chang, Stonebraker - 2016 - Dynamic prefetching of data tiles for interactive visualization-annotated
+
+Benjelloun - Unknown - Benjelloun et al. - 2008 - Databases with uncertainty and lineage-annotated
+
+Biswas, Morris - Unknown - ExOR Opportunistic Multi-Hop Routing for Wireless Networks-annotated
+
+Blanas et al. - 2010 - A comparison of join algorithms for log processing in MaPreduce-annotated
+
+Boehm et al. - 2016 - SystemML-annotated
+
+Boral et al. - 1990 - Prototyping Bubba, A Highly Parallel Database System-annotated
+
+Bruno - Unknown - Continuous Cloud-Scale Query Optimization and Processing-annotated
+
+Bu, Carey - Unknown - Pregelix Big ( ger ) Graph Analytics on A Dataflow Engine-annotated
+
+Cafarella et al. - 2016 - WebTables Exploring the Power of Tables on the Web-annotated
+
+Candea, Polyzotis, Vingralek - 2009 - A scalable, predictable join operator for highly concurrent data warehouses-annotated
+
+Cao et al. - 2011 - Fast checkpoint recovery algorithms for frequently consistent applications-annotated
+
+Chaiken et al. - 2008 - SCOPE Easy and efficient parallel processing of massive data sets-annotated
+
+Chan, Dehne, Taylor - 2005 - CGMGRAPHCGMLIB Implementing and testing CGM graph algorithms on PC clusters and shared memory machines-annotated
+
+Chandra, Griesemer, Redstone - 2007 - Paxos Made Live -An Engineering Perspective (2006 Invited Talk)-annotated
+
+Chandrasekaran, Dadush, Vempala - 2010 - Thin partitions Isoperimetric inequalities and a sampling algorithm for star shaped bodies-annotated
+
+Chang et al. - 2006 - BigTable A distributed storage system for structured data-annotated
+
+Chen, Gibbons, Nath - 2010 - PR-join A non-blocking join achieving higher early result rate with statistical guarantees-annotated
+
+Cheng et al. - 2012 - Kreach Who is in your small world-annotated
+
+Chirigati et al. - 2016 - Knowledge exploration using tables on the web-annotated
+
+Clement et al. - 2009 - UpRight cluster services-annotated
+
+Condie et al. - 2019 - MapReduce online-annotated
+
+Cong, Jensen - 2016 - Querying Geo-Textual Data-annotated
+
+Considine et al. - 2004 - Approximate aggregation techniques for sensor databases-annotated
+
+Cooper et al. - 2010 - Benchmarking cloud serving systems with YCSB-annotated
+
+Cudre-Mauroux, Wu, Madden - 2010 - TrajStore An adaptive storage system for very large trajectory data sets-annotated
+
+DIAO, RIZVI, FRNAKLIN - 2004 - Towards an Internet-Scale XML Dissemination Service1-annotated
+
+Dabek et al. - 2004 - Vivaldi A decentralized network coordinate system-annotated
+
+Das, Dutta - 2004 - Data acquisition in multiple-sink sensoi networks-annotated
+
+Datta, Stoica, Franklin - 2007 - LagOver Latency Gradated Overlays-annotated
+
+DeCandia et al. - 2007 - Dynamo Amazon's highly available key-value store-annotated
+
+Dean, Ghemawat - 2008 - MapReduce Simplified data processing on large clusters-annotated
+
+Dobrescu et al. - Unknown - Routebricks-Sosp09-annotated
+
+Drosou, Pitoura - 2015 - Multiple radii disc diversity Result diversification based on dissimilarity and coverage-annotated
+
+Fan et al. - 2012 - Query preserving graph compression-annotated
+
+Fan, Wang, Wu - 2012 - Performance guarantees for distributed reachability queries-annotated
+
+Feamster, Balakrishnan - 2005 - Detecting BGP configuration faults with static analysis-annotated
+
+Ford et al. - 2019 - Availability in globally distributed storage systems-annotated
+
+Franklin et al. - 2011 - CrowdDB Answering queries with crowdsourcing-annotated
+
+Frey, Alonso - 2009 - Minimizing the hidden cost of RDMA-annotated
+
+Gates et al. - 2009 - Building a highlevel dataflow system on top of Map-Reduce The Pig experience-annotated
+
+Ghemawat, Gobioff, Leung - 2003 - The google file system-annotated
+
+Gonzalez, Bickson, Guestrin - Unknown - Osdi2012-Gonzalez-Low-Gu-Bickson-Guestrin-annotated
+
+Grund, CudreMauroux, Madden - 2011 - A demonstration of HYRISE- A main memory hybrid storage engine-annotated
+
+Guan, Yan, Kaplan - 2012 - Measuring twoevent structural correlations on graphs-annotated
+
+Gulisano et al. - 2010 - StreamCloud A large scale data streaming system-annotated
+
+Gummadi et al. - 2004 - Improving the reliability of internet paths with one-hop source routing-annotated
+
+Halevy et al. - 2016 - Goods Organizing Google's datasets-annotated
+
+Harding et al. - 2016 - An evaluation of distributed concurrency control-annotated
+
+He, Singh - 2008 - Graphs-at-a-time Query language and access methods for graph databases-annotated
+
+Heller et al. - 2019 - Elastictree Saving energy in data center networks-annotated
+
+Herodotou, Borisov, Babu - 2011 - Query optimization techniques for partitioned tables-annotated
+
+Hu, Tao, Chung - 2013 - Massive graph triangulation-annotated
+
+Huang, Abadi - 2016 - LEOPARD Lightweight edg-oriented partitioning and replication for dynamic graphs-annotated
+
+Huang, Abadi, Ren - 2011 - Scalable SPARQL querying of large RDF graphs-annotated
+
+Huebsch et al. - 2003 - Querying the internet with PIER-annotated
+
+Hwang, Çetintemel, Zdonik - 2008 - Fast and highly-available stream processing over wide area networks-annotated
+
+Ipeirotis et al. - 2007 - Modeling and managing changes in text databases-annotated
+
+Isard et al. - 2008 - 3_Quincy-annotated
+
+Ivanova et al. - 2010 - An architecture for recycling intermediates in a column-store-annotated
+
+Jeffery, Garofalakis, Franklin - 2006 - Adaptive cleaning for RFID data streams-annotated
+
+Jin et al. - 2012 - SCARAB Scaling reachability computation on large graphs-annotated
+
+Johnson et al. - 2010 - Aether A scalable approach to logging-annotated
+
+Jones, Abadi, Madden - 2010 - Low overhead concurrency control for partitioned main memory databases-annotated
+
+Jung et al. - 2010 - Mistral Dynamically managing power, performance, and adaptation cost in cloud infrastructures-annotated
+
+Karypis, Kumar - 1998 - A fast and high quality multilevel scheme for partitioning irregular graphs-annotated
+
+Kemper, Neumann - 2011 - HyPer A hybrid OLTP&OLAP main memory database system based on virtual memory snapshots-annotated
+
+Khan et al. - 2013 - NeMa Fast graph search with label similarity-annotated
+
+Khurana, Deshpande - 2013 - Efficient snapshot retrieval over historical graph data-annotated
+
+Kostić et al. - 2003 - Bullet-annotated
+
+Koutris et al. - 2013 - Toward practical query pricing with QueryMarket-annotated
+
+Kriegel et al. - 1990 - The R-tree an efficient and robust access method for points and rectangles-annotated
+
+Kwon et al. - 2012 - SkewTune in action Mitigating skew in MapReduce applications-annotated
+
+Kyrola, Blelloch, Guestrin - 2012 - Graphchi Large-scale graph computation on just a PC-annotated
+
+Lee - 2013 - A view of cloud computing-annotated
+
+Lee et al. - 2009 - MCC-DB Minimizing cache conflicts in multi-core processors for databases-annotated
+
+Lee, Zheng - 2005 - DSI A fully distributed spatial index for location-based wireless broadcast services-annotated
+
+Levis et al. - 2004 - Trickle A self-regulating algorithm for code propagation and maintenance in wireless sensor networks-annotated
+
+Li et al. - 2015 - Influential Community Search in Large Networks-annotated
+
+Li, Patel - 2013 - BitWeaving Fast scans for main memory data processing-annotated
+
+Luo et al. - 2013 - Finding time period-based most frequent path in big trajectory data-annotated
+
+Ma et al. - 2016 - GSQL Fast query processing via graph exploration-annotated
+
+Machanavajjhala et al. - 2008 - Scalable Ranked Publish Subscribe-annotated
+
+Mackert, Lohman - 1986 - R Optimizer Validation and Performance Evaluation for Local Queries-annotated
+
+Madden et al. - 2002 - TAG A tiny aggregation service for ad-hoc sensor networks∗-annotated
+
+Manoharan et al. - 2016 - Shasta Interactive reporting at scale-annotated
+
+Marcus et al. - 2012 - Counting with the crowd-annotated
+
+McConnell, Ping, Hwang - 2010 - iFlow An approach for fast and reliable internetScale stream processing utilizing detouring and replicat-annotated
+
+Neumann - 2011 - Efficiently compiling efficient query plans for Modern Hardware-annotated
+
+Olteanu, Huang - 2008 - Using OBDDs for efficient query evaluation on probabilistic databases-annotated
+
+Pham, Shahabi, Liu - 2013 - EBM - An entropy-based model to infer social strength from spatiotemporal data-annotated
+
+Rajsbaum - 2003 - ACM SIGACT news distributed computing column 13-annotated
+
+Reiter - 2013 - Zephyr-annotated
+
+Science, Yang - 2006 - On the Database Network Interface in Large-Scale Publish Subscribe Systems-annotated
+
+Soliman et al. - 2014 - Orca A modular query optimizer architecture for big data-annotated
+
+Unknown - 1983 - David Dewitt and Jim Gray-annotated
+
+Unknown - Unknown - 5da318c7038f90b5433dc43b5a8b70c86461528e-annotated
+
+Waas, Galindo-Legaria - 2000 - Counting, enumerating, and sampling of execution plans in a cost-based query optimizer-annotated
+
+Weissman - 2013 - Comet-annotated
+
+Wu - 2003 - An Extended Dynamic Source Routing Scheme in Ad Hoc Wireless Networks-annotated
