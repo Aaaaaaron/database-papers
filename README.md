@@ -208,7 +208,7 @@ Selecting Subexpressions to Materialize at Datacenter Scale
 
 View Matching for Outer-Join Views
 
-View matching for outer-join-views
+A survey of view selection methods.pdf
 
 # optimizer
 
@@ -395,6 +395,53 @@ Automatic Capture of Minimal, Portable, and Executable Bug Repros Using AMPERe
 Reversing Statistics for Scalable Test Databases Generation
 
 Total Operator State Recall — Cost-effective Reuse of Results in Greenplum Database
+
+# execution engine
+Adaptive Execution of Compiled Queries
+
+Adaptive NUMA-aware data placement and task scheduling for analytical workloads in main-memory column-stores
+
+Approximate Distributed Joins in Apache Spark
+
+Architecture-of-a-Database-System
+
+Balancing Vectorized Query Execution with Bandwidth-Optimized Storage
+
+Breaking the memory wall in MonetDB 
+
+ClickHouse Query Execution Pipeline
+
+Efﬁcient Exploitation of Similar Subexpressions for Query Processing
+
+Efﬁciently Compiling Efﬁcient Query Plans for Modern Hardware
+
+Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask
+
+Fuxi a Fault-Tolerant Resource Management and Job Scheduling System at Internet Scale
+
+Morsel-Driven Parallelism A NUMA-Aware Query Evaluation Framework for the Many-Core Age
+
+On the Parallels between Paxos and Raft, and how to Port Optimizations
+
+Optimal Bloom Filters and Adaptive Merging for LSM-Trees∗
+
+Paxos Made Simple
+
+PaxosRaft 分布式一致性算法原理剖析及其在实战中的应用
+
+Predicate Pushdown in Parquet and Apache Spark
+
+Push vs. Pull-Based Loop Fusion in Query Engines-ppt
+
+Push vs. Pull-Based Loop Fusion in Query Engines
+
+SCOPE parallel databases meet MapReduce
+
+Static and Dynamic Big Data Partitioning on Apache Spark
+
+The Case for Learned Index Structures
+
+Yugong Geo-Distributed Data and Job Placement at Scale
 
 # uncategorized
 
