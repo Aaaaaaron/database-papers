@@ -443,6 +443,8 @@ The Case for Learned Index Structures
 
 Yugong Geo-Distributed Data and Job Placement at Scale
 
+Towards Practical Vectorized Analytical Query Engines
+
 # uncategorized
 
 Abadi et al. - 2003 - Aurora A new model and architecture for data stream management-annotated
