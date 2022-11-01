@@ -445,6 +445,14 @@ Yugong Geo-Distributed Data and Job Placement at Scale
 
 Towards Practical Vectorized Analytical Query Engines
 
+A History and Evaluation of System R
+
+HyPer HYbrid OLTP&OLAP High PERformance Database System
+
+Kudu Storage for Fast Analytics on Fast Data
+
+Vectorization vs. Compilation in Query Execution
+
 # uncategorized
 
 Abadi et al. - 2003 - Aurora A new model and architecture for data stream management-annotated
